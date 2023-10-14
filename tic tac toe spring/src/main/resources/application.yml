@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://localhost:5432/tictactoe
+    username: postgres
+    password: Dryden460!
+    driverClassName: org.postgresql.Driver
